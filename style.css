@@ -1,14 +1,17 @@
 body {
-  background-color: green;
+background-color: green;
 }
-
-
 h1 {
-  color: white;
-  text-align: center;
+color: white;
+font-family: 'Arial';
+text-align: center;
+font-size: 21px;
+lang: ru;
 }
-
 p {
-  font-family: 'Arial';
-  font-size: 21px;
+color: black;
+font-family: 'Arial';
+text-align: center;
+font-size: 21px;
+lang: ru;
 }
